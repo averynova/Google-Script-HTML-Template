@@ -9,4 +9,4 @@
   
 # License
 
-The Unlicense. See more in [LICENSE.md](https://github.com/averynova/Google-Script-HTML-Template/blob/main/LICENSE.md)
+The Unlicense. Read more [here](https://unlicense.org/)
